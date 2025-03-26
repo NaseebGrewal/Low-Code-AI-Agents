@@ -15,3 +15,6 @@ __pycache__/
 *$py.class
 .python_packages
 .DS*
+
+Images/
+Converted_Images/
