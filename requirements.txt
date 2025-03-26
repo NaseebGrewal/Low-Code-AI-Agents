@@ -1,0 +1,5 @@
+# Libraries to install
+requests 
+pillow
+
+python-dotenv
