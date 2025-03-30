@@ -50,11 +50,6 @@ To set up this AI agent on your own:
    - AI-powered chat and image generation
 4. Deploy and enjoy automation magic! ✨
 
-## 💡 Future Improvements
-🔹 Integrate with more AI models (e.g., GPT-4, Gemini, etc.)
-🔹 Add support for voice commands
-🔹 Enhance personalization for different users
-
 ## New Updates
 
 ### New Folders and Features
@@ -75,3 +70,9 @@ To set up this AI agent on your own:
 2. Configure the environment by updating the .env file.
 3. Run the main scripts as needed, for example:
 python image_generation.py
+
+
+## 💡 Future Improvements
+🔹 Integrate with more AI models (e.g., GPT-4, Gemini, etc.)
+🔹 Add support for voice commands
+🔹 Enhance personalization for different users
