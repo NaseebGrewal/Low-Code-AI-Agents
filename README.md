@@ -55,12 +55,6 @@ To set up this AI agent on your own:
 🔹 Add support for voice commands
 🔹 Enhance personalization for different users
 
----
-
-# Low Code AI Agents
-
-...existing content...
-
 ## New Updates
 
 ### New Folders and Features
@@ -71,8 +65,6 @@ To set up this AI agent on your own:
 ### Updated Functionalities
 - **Prompt Processing**: Changes have been made to [`prompt_processing.py`](Low-Code-AI-Agents/prompt_processing.py) to improve handling of input prompts.
 - **Improved Workflow**: With the latest updates, the project now better organizes image assets and supports advanced language chain functionality.
-
-...existing content...
 
 ## Getting Started
 
