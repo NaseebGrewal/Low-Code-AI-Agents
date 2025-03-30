@@ -57,5 +57,29 @@ To set up this AI agent on your own:
 
 ---
 
-🚀 **Let’s automate, simplify, and enhance productivity with AI!**
+# Low Code AI Agents
 
+...existing content...
+
+## New Updates
+
+### New Folders and Features
+- **Converted_Images/**: A new folder that now stores processed images.
+- **Images/**: Contains source images; these are used by the image generation process in [`image_generation.py`](Low-Code-AI-Agents/image_generation.py).
+- **Langchain/** and **Pydantic/**: New integrations are being developed to enhance prompt processing and data validation.
+
+### Updated Functionalities
+- **Prompt Processing**: Changes have been made to [`prompt_processing.py`](Low-Code-AI-Agents/prompt_processing.py) to improve handling of input prompts.
+- **Improved Workflow**: With the latest updates, the project now better organizes image assets and supports advanced language chain functionality.
+
+...existing content...
+
+## Getting Started
+
+1. Install dependencies from [`requirements.txt`](Low-Code-AI-Agents/requirements.txt):
+   ````sh
+   pip install -r requirements.txt
+
+2. Configure the environment by updating the .env file.
+3. Run the main scripts as needed, for example:
+python image_generation.py
