@@ -4,3 +4,4 @@ openai
 langchain
 langgraph
 crewai
+python-dotenv
