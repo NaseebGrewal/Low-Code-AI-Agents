@@ -3,11 +3,6 @@ This module contains a function that processes raw prompt text and returns a tup
 file: prompt_processing.py
 """
 
-# Importing the required libraries
-from raw_prompt_text import raw_prompt_text
-
-
-
 def process_raw_prompt_text(raw_prompt_text)->tuple:
     """
     This function takes in a raw prompt text and returns a tuple of two lists: prompt_titles and prompt_descriptions.

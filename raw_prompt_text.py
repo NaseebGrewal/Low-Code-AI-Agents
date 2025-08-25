@@ -45,7 +45,7 @@ Algorithmic Alleyways: An intricate maze of narrow lanes coded in digital graffi
 Coded Cosmos: A panoramic view of an expansive, data-driven skyline that transcends gravity, where stellar algorithmic patterns weave through futuristic architecture."""
 
 
-raw_prompt_text = """Quantum Arcadia: An ultramodern megalopolis where gravity-defying structures merge with streams of quantum data, creating an ever-shifting landscape of possibility.
+raw_prompt_text = """Digital Wasteland: A post-digital dystopia featuring derelict smart ruins, glitch-ridden holograms, and fractured data streams scattered across a decaying urban grid.
 
-Cyber Hothouse: A sprawling digital enclave blooming with neon flora and cybernetic fauna, where futuristic greenhouses coexist with holographic wildlife sanctuaries.
+Pixel Metropolis: A retro-futuristic city rendered in vivid, high-resolution pixels, where classic arcade visuals blend with advanced digital infrastructures.
 """
